@@ -1,4 +1,4 @@
-AWT_Practice
+AWK_Practice
 ============
 Store the test source code when learning AWK.
 Reference :
