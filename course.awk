@@ -1,3 +1,4 @@
+#test for array in AWK
     { for(i=2;i<=NF;i++)
       Number[$i]++
     }
